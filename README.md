@@ -2,7 +2,7 @@
 
 **Live Interactive Dashboard** → Click below to run instantly:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/heart-disease-dashboard/blob/main/Heart_Disease_Dashboard.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cmai_DgbXU0FwzAyWAx3fBHOvLim1u1V?usp=sharing)
 
 ## Features
 - Professional Plotly dashboard (dark mode)
@@ -19,4 +19,4 @@ Just click the badge above → Upload `data.csv` when prompted → Full dashboar
 - Plotly, ipywidgets
 - Google Colab + GitHub Pages
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Vishwas
