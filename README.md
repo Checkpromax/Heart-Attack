@@ -4,6 +4,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cmai_DgbXU0FwzAyWAx3fBHOvLim1u1V?usp=sharing)
 
+<p align="center">
+  <img src="images/thumbnail.jpg" width-="100%">
+</p>
+
 ## Features
 - Professional Plotly dashboard (dark mode)
 - Random Forest model (90%+ accuracy)
